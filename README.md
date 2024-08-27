@@ -1,6 +1,6 @@
 # Shopping Project
 
-https://github.com/charlye917/ShoppingLiverpool/assets/44787787/9eade76f-5b1b-446f-8d83-5d07125ee795
+https://github.com/user-attachments/assets/69b952d2-aee7-4119-a520-676c10111f28
 
 ## Introducción
 A sample app that display a _"Order books"_, An order book is a record of all the buy and sell orders that have been placed for a particular cryptocurrency pair on a cryptocurrency exchange market.
@@ -23,8 +23,7 @@ The purpose of this project to illustrate the usage of MVVM architecture design 
 11. Coroutines
 12. Navigation Component
 
-![Captura de pantalla 2024-04-10 a la(s) 1 30 20 a m](https://github.com/charlye917/ShoppingLiverpool/assets/44787787/fc06ceac-81ba-44bb-ad49-ef5648beef55)
-
+![Captura de pantalla 2024-08-27 a la(s) 3 12 18 p m](https://github.com/user-attachments/assets/17bb4e6b-9529-4098-8f28-b9d07c95d33a)
 
 It was decided to use the clean architecture pattern due to its focus on separating the responsibilities of the code in different capabilities and levels of abstraction, with the aim of creating scalable, maintainable and flexible systems, the way to implement it for this project is as follows:
 
