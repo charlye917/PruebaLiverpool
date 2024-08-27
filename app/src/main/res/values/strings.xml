@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShoppingLiverpool</string>
+    <string name="search">Buscar</string>
+    <string name="generic_subtitle_error">Por el momento, no se pudo completar la solicitud. \nIntenta más tarde.</string>
+    <string name="title_liverpool">Liverpool</string>
+    <string name="filter">Filtro</string>
+
+    <string name="order_by">Ordernar por:</string>
+    <string name="order_more_new">Lo Más Nuevo</string>
+    <string name="order_relevancia">Relevancia</string>
+    <string name="order_less_price">Menor precio</string>
+    <string name="order_more_price">Mayor precio</string>
+    <string name="order_calification">Calificaciones</string>
+</resources>
